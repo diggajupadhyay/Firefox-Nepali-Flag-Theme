@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Nepali Flag Theme",
+  "version": "1.0",
+  "description": "A Firefox theme inspired by the colors of the Nepali flag.",
+  "theme": {
+    "colors": {
+      "frame": "#DC143C", // Crimson Red
+      "tab_background_text": "#FFFFFF", // White
+      "toolbar": "#003893", // Dark Blue
+      "bookmark_text": "#FFFFFF", // White
+      "toolbar_field": "#FFFFFF", // White
+      "toolbar_field_border": "#003893", // Dark Blue
+      "toolbar_field_text": "#003893", // Crimson Red
+      "toolbar_top_separator": "#FFFFFF", // White
+      "toolbar_bottom_separator": "#FFFFFF", // White
+      "toolbar_vertical_separator": "#FFFFFF" // White
+    }
+  }
+}
